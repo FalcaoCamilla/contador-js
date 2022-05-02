@@ -1,2 +1,2 @@
 # contador-js
-Primeiro projeto javascript
+Projeto simples - contador em javascript
